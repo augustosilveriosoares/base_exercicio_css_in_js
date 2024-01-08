@@ -1,0 +1,13 @@
+Parte II
+
+/** Algoritimo em Portugól **/
+
+
+1 - Indivudo Que estava dormindo Acorda
+2 - Individuo implementa interface Corpo
+3 - Indivudio executa o metodo sobrescrito abrirOlho()
+4 - Indivudio executa o metodo sobrescrito sentarNaCama()
+5 - Indivudio executa o metodo sobrescrito levantarDaCama()
+5 - Indivudio executa o metodo sobrescrito caminhar()
+
+
